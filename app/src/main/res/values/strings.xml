@@ -1,0 +1,78 @@
+<resources>
+    <string name="app_name">Health Application</string>
+
+    -- Regular nav bar --
+    <string name="top_nav_bar_icon_description">Arrow back icon</string>
+
+    -- Bottom nav bar --
+    <string name="bottom_nav_bar_first_tab_text">Home</string>
+    <string name="bottom_nav_bar_second_tab_text">Medicine</string>
+    <string name="bottom_nav_bar_third_tab_text">Profile</string>
+
+    -- Start screen --
+    <string name="stay_healthy_be_happy">Lets get started on your health journey!</string>
+    <string name="get_started">Get started</string>
+    <string name="fitness_illustration_desc">Get started image</string>
+
+    -- Home screen top nav bar --
+    <string name="home_screen_top_nav_bar_icon_description">hamburger menu icon for more options</string>
+    <string name="home_screen_top_nav_bar_dropdown_text_for_steps">steps</string>
+    <string name="home_screen_top_nav_bar_dropdown_text_for_user">profile</string>
+    <string name="home_screen_top_nav_bar_dropdown_text_for_diet">diet</string>
+    <string name="home_screen_top_nav_bar_dropdown_text_for_calendar">calendar</string>
+    <string name="home_screen_top_nav_bar_dropdown_text_for_logout">logout</string>
+    <string name="home_screen_top_nav_bar_dropdown_text_for_workout">workout</string>
+    <string name="home_screen_top_nav_bar_dropdown_text_for_medicine">medicine</string>
+
+    -- User/profile screen --
+    <string name="user_top_nav_bar_title">Profile</string>
+    <string name="user_screen_title">Your information</string>
+    <string name="user_screen_loading_data_error_message_text">User data not available</string>
+    <string name="user_screen_updating_data_error_message_text">Failed to update user data</string>
+    <string name="user_screen_card_component_title">User Information</string>
+
+    -- Edit user/profile screen --
+    <string name="edit_user_top_nav_bar_title">Profile</string>
+    <string name="edit_user_screen_title">Your information</string>
+    <string name="edit_user_screen_outlined_text_field_label_age">age</string>
+    <string name="edit_user_screen_outlined_text_field_label_height">height (cm)</string>
+    <string name="edit_user_screen_outlined_text_field_label_weight">weight (kg)</string>
+    <string name="edit_user_screen_button_text">Update info</string>
+    <string name="edit_user_screen_gender_dropdown_component_label">gender</string>
+    <string name="edit_user_screen_gender_dropdown_component_icon_description">arrow down icon for select gender</string>
+
+    -- Sign up screen --
+    <string name="sign_up_screen_title">Let\'s help you feel better</string>
+    <string name="sign_up_screen_outlined_text_field_label_email">Email</string>
+    <string name="sign_up_screen_outlined_text_field_label_password">Password</string>
+    <string name="sign_up_screen_password_requirements_text">• Password must contain at least 6 characters</string>
+    <string name="sign_up_screen_outlined_text_field_icon_desc_email">email icon</string>
+    <string name="sign_up_screen_outlined_text_field_icon_desc_password">lock icon</string>
+    <string name="sign_up_screen_submit_button_text">Sign Up</string>
+    <string name="sign_up_screen_change_page_text">Already have an account?</string>
+    <string name="sign_up_screen_change_page_link_text">Log in</string>
+
+    -- Login screen --
+    <string name="login_screen_title">Welcome back!</string>
+    <string name="login_screen_outlined_text_field_label_email">Email</string>
+    <string name="login_screen_outlined_text_field_label_password">Password</string>
+    <string name="login_screen_outlined_text_field_icon_description_email">description</string>
+    <string name="login_screen_outlined_text_field_icon_description_password">description</string>
+    <string name="login_screen_error_card_in_case_of_null_error_message">Unknown error occurred.</string>
+    <string name="login_screen_submit_button_text">Log In</string>
+    <string name="login_screen_change_page_text_normal">Don\'t have an account?</string>
+    <string name="login_screen_change_page_text_link">Sign up</string>
+
+    -- Steps screen --
+    <string name="steps_top_nav_bar_title">Steps</string>
+    <string name="steps_screen_error_card_text">Step tracking isn\'t supported on this device.</string>
+    <string name="steps_screen_title_text">Today\'s steps</string>
+    <string name="steps_screen_outlined_text_field_label">Step Goal</string>
+    <string name="steps_screen_update_goal_button_text">Update Goal</string>
+
+    -- Components --
+    <string name="error_card_icon_description">Dismiss</string>
+    <string name="next">Next</string>
+    <string name="diet_screen_title">Diet</string>
+    <string name="welcome">Welcome to our app</string>
+</resources>
